@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(30, 65, 30);
+}
+.ma {
+background-color: rgb(56, 36, 7);
+width: 350px;
+margin: 0 auto;
+text-align: center;
+color: white;
+height: 45px;
+}
+.name{
+    background-color: black;
+    text-align: center;
+    width: 580px;
+    height: 400 px;
+    color: white;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top:30px;
+    border: 5px solid red;
+    
+    
+}
+.lor{
+    background-color: rgb(99, 196, 99);
+    margin: 20px 20px;
+    padding:5px 5px;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
